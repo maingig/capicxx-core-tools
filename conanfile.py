@@ -6,7 +6,7 @@ import os
 
 class CapicxxcoretoolsConan(ConanFile):
     name = "capicxx-core-tools"
-    version = "3.1.12.4"
+    version = "3.2.0.1"
     settings = "os", "compiler", "build_type", "arch"
     description = "Core tools built with maven"
     url = "None"
